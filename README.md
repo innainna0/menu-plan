@@ -1,3 +1,6 @@
+![menu-plan read me](https://github.com/innainna0/menu-plan/assets/138897277/b1246925-44b7-42da-b2c0-277c0da9e283)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
